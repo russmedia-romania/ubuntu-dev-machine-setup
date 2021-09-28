@@ -4,27 +4,32 @@ vscode_repo: "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stabl
 vscode_apt_key: "https://packages.microsoft.com/keys/microsoft.asc"
 
 vscode_extensions:
-  - aaron-bond.better-comments
-  - formulahendry.code-runner
-  - donjayamanne.githistory
-  - eamodio.gitlens
-  - golang.Go
-  - vincaslt.highlight-matching-tag
-  - oderwat.indent-rainbow
-  - yzhang.markdown-all-in-one
-  - PKief.material-icon-theme
-  - ms-python.python
-  - ms-python.vscode-pylance
-  - humao.rest-client
-  - Gruntfuggly.todo-tree
-  - shardulm94.trailing-spaces
-  - Equinusocio.vsc-material-theme
-  - vscodevim.vim
-  - visualstudioexptteam.vscodeintellicode
+  - adrianwilczynski.alpine-js-intellisense
+  - eiminsasete.apacheconf-snippets
   - ms-azuretools.vscode-docker
-  - vscode-icons-team.vscode-icons
-  - esbenp.prettier-vscode
+  - dbaeumer.vscode-eslint
+  - sleistner.vscode-fileutils
+  - file-icons.file-icons
+  - donjayamanne.githistory
+  - huizhou.githd
+  - ms-vscode-remote.remote-containers
+  - syler.sass-indented
+  - ms-vscode.sublime-keybindings
+  - bradlc.vscode-tailwindcss
+  - whatwedo.twig
+  - fterrag.vscode-php-cs-fixer
+  - dotjoshjohnson.xml
   - redhat.vscode-yaml
-  - danielroedl.meld-diff
+  - hashicorp.terraform
+  - ecmel.vscode-html-css
+  - secanis.jenkinsfile-support
+  - zainchen.json
+  - mdickin.markdown-shortcuts
+  - william-voyek.vscode-nginx
+  - damianbal.vs-phpclassgen
+  - felixfbecker.php-pack
+  - phproberto.vscode-php-getters-setters
+  - bmewburn.vscode-intelephense-client
+  - ara225.regex-copy-or-cut
 
 ...

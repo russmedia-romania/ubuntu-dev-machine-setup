@@ -6,8 +6,6 @@ hashicorp_repo_impish: "deb [arch=amd64] https://apt.releases.hashicorp.com impi
 hashicorp_apt_key: "https://apt.releases.hashicorp.com/gpg"
 
 hashicorp_packages:
-  - vagrant
   - terraform
-  - packer
 
 ...
