@@ -97,7 +97,6 @@ base_developer_tools:
   - ranger
   - recode
   - rename
-  - ripgrep  # launch using rg from the cli
   - ruby
   - ruby-dev
   - shellcheck
